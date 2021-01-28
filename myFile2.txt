@@ -1,1 +1,5 @@
-Its Snowing outside Today 
+Its Snowing outside Today
+
+Now it is sunny outside.
+
+I will eat lunch one hour later.
